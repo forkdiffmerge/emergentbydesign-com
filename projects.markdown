@@ -28,7 +28,7 @@
 
 <h3 class="sd-title">Like this:</h3>
 
-<a href="http://emergentbydesign.com/projects/?like=1&amp;_wpnonce=ad6b8dbc00" title="I like this." class="like needs-login sd-button" rel="nofollow"><span>Like</span></a>
+<a href="http://emergentbydesign.com/projects/?like=1&amp;_wpnonce=64c25f6889" title="I like this." class="like needs-login sd-button" rel="nofollow"><span>Like</span></a>
 
 Be the first to like this.
 
