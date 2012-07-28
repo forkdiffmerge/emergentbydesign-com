@@ -166,6 +166,16 @@
           "name": "blog"
         }
       ]
+    },
+    {
+      "name": "chriscorrigan.com",
+      "slug": "chriscorrigan-com",
+      "children": [
+        {
+          "size": 1,
+          "name": "parkinglot"
+        }
+      ]
     }
   ]
 }
