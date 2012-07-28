@@ -152,6 +152,20 @@
           "name": "about"
         }
       ]
+    },
+    {
+      "name": "artbrock.com",
+      "slug": "artbrock-com",
+      "children": [
+        {
+          "size": 1,
+          "name": "home"
+        },
+        {
+          "size": 1,
+          "name": "blog"
+        }
+      ]
     }
   ]
 }
