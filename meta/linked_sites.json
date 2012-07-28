@@ -120,5 +120,40 @@
     "parkinglot": {
       "size": 1
     }
+  },
+  "bollier.org": {
+    "taxonomy-term-10": {
+      "size": 1
+    },
+    "category-tags-agriculture": {
+      "size": 1
+    },
+    "taxonomy-term-15": {
+      "size": 1
+    },
+    "category-tags-cooperation": {
+      "size": 1
+    },
+    "category-tags-copyright-law": {
+      "size": 1
+    },
+    "category-tags-enclosure": {
+      "size": 1
+    },
+    "category-tags-enclosures": {
+      "size": 1
+    },
+    "category-tags-food": {
+      "size": 1
+    },
+    "taxonomy-term-16": {
+      "size": 1
+    },
+    "taxonomy-term-11": {
+      "size": 1
+    },
+    "category-tags-germany": {
+      "size": 1
+    }
   }
 }
