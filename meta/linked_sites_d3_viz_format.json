@@ -1,0 +1,19 @@
+{
+  "name": "",
+  "children": [
+    {
+      "name": "liveingreatness.com",
+      "slug": "liveingreatness-com",
+      "children": [
+        {
+          "size": 1,
+          "name": "home"
+        },
+        {
+          "size": 1,
+          "name": "core-protocols-and-your-team"
+        }
+      ]
+    }
+  ]
+}
