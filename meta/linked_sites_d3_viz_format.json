@@ -14,6 +14,20 @@
           "name": "core-protocols-and-your-team"
         }
       ]
+    },
+    {
+      "name": "alchemyofchange.net",
+      "slug": "alchemyofchange-net",
+      "children": [
+        {
+          "size": 1,
+          "name": "t"
+        },
+        {
+          "size": 1,
+          "name": "engaging-people"
+        }
+      ]
     }
   ]
 }
