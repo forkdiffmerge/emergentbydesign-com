@@ -226,6 +226,56 @@
           "name": "category-tags-germany"
         }
       ]
+    },
+    {
+      "name": "jarche.com",
+      "slug": "jarche-com",
+      "children": [
+        {
+          "size": 1,
+          "name": "clients"
+        },
+        {
+          "size": 1,
+          "name": "about"
+        },
+        {
+          "size": 1,
+          "name": "contact"
+        },
+        {
+          "size": 1,
+          "name": "francais"
+        },
+        {
+          "size": 1,
+          "name": "pkm"
+        },
+        {
+          "size": 1,
+          "name": "key-posts"
+        },
+        {
+          "size": 1,
+          "name": "services-endorsements"
+        },
+        {
+          "size": 1,
+          "name": "toolbox"
+        },
+        {
+          "size": 1,
+          "name": "services"
+        },
+        {
+          "size": 1,
+          "name": "2012-07-fridays-curation"
+        },
+        {
+          "size": 1,
+          "name": "2012-07-in-an-increasingly-complex-world"
+        }
+      ]
     }
   ]
 }
