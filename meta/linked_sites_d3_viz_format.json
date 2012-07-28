@@ -176,6 +176,56 @@
           "name": "parkinglot"
         }
       ]
+    },
+    {
+      "name": "bollier.org",
+      "slug": "bollier-org",
+      "children": [
+        {
+          "size": 1,
+          "name": "taxonomy-term-10"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-agriculture"
+        },
+        {
+          "size": 1,
+          "name": "taxonomy-term-15"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-cooperation"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-copyright-law"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-enclosure"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-enclosures"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-food"
+        },
+        {
+          "size": 1,
+          "name": "taxonomy-term-16"
+        },
+        {
+          "size": 1,
+          "name": "taxonomy-term-11"
+        },
+        {
+          "size": 1,
+          "name": "category-tags-germany"
+        }
+      ]
     }
   ]
 }
