@@ -86,6 +86,72 @@
           "name": "additional-protocols"
         }
       ]
+    },
+    {
+      "name": "alchemyofchange.net",
+      "slug": "alchemyofchange-net",
+      "children": [
+        {
+          "size": 1,
+          "name": "t"
+        },
+        {
+          "size": 1,
+          "name": "creating-meaning"
+        },
+        {
+          "size": 1,
+          "name": "home"
+        },
+        {
+          "size": 1,
+          "name": "ownership"
+        },
+        {
+          "size": 1,
+          "name": "soulful-organizations"
+        },
+        {
+          "size": 1,
+          "name": "living-system"
+        },
+        {
+          "size": 1,
+          "name": "social-change"
+        },
+        {
+          "size": 1,
+          "name": "local-news-renaissance"
+        },
+        {
+          "size": 1,
+          "name": "about-about-alchemy-of-change"
+        },
+        {
+          "size": 1,
+          "name": "about-about-gideon-rosenblatt"
+        },
+        {
+          "size": 1,
+          "name": "about-books"
+        },
+        {
+          "size": 1,
+          "name": "engaging-people"
+        },
+        {
+          "size": 1,
+          "name": "more-alchemy"
+        },
+        {
+          "size": 1,
+          "name": "tedxrainier"
+        },
+        {
+          "size": 1,
+          "name": "about"
+        }
+      ]
     }
   ]
 }
