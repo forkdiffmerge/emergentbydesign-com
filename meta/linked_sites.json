@@ -115,5 +115,10 @@
     "blog": {
       "size": 1
     }
+  },
+  "chriscorrigan.com": {
+    "parkinglot": {
+      "size": 1
+    }
   }
 }
