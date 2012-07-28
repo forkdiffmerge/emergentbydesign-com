@@ -107,5 +107,13 @@
     "about": {
       "size": 1
     }
+  },
+  "artbrock.com": {
+    "home": {
+      "size": 1
+    },
+    "blog": {
+      "size": 1
+    }
   }
 }
