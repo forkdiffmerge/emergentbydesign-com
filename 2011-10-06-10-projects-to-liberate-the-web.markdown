@@ -218,21 +218,11 @@ indeed, the Evolution will be Social!
 
 						
 
-[Follow][44]
-
-### Follow “emergent by design”
-
-Get every new post delivered to your Inbox.
-
-Join 1,050 other followers
-
-[Powered by WordPress.com][45]
-
 Send to Email Address
 Your Name
 Your Email Address
 
-![loading][46][Cancel][47]
+![loading][44][Cancel][45]
 
  Post was not sent - check your email addresses! 
 
@@ -242,13 +232,13 @@ Your Email Address
 
 ----
 
-This page was forked with permission from [http://emergentbydesign.com/2011/10/06/10-projects-to-liberate-the-web/][48]
+This page was forked with permission from [http://emergentbydesign.com/2011/10/06/10-projects-to-liberate-the-web/][46]
 
 ----
 
-[![Creative Commons License][49]][50]
+[![Creative Commons License][47]][48]
 
-[Creative Commons Attribution 3.0 Unported License][50]
+[Creative Commons Attribution 3.0 Unported License][48]
 
 [1]: #content
 [2]: http://emergentbydesign.com/tag/contact-summit/
@@ -293,10 +283,8 @@ This page was forked with permission from [http://emergentbydesign.com/2011/10/0
 [41]: http://connect.me/
 [42]: http://www.shareable.net/sites/default/files/upload/inline/200/images/connectme.jpg
 [43]: http://contactcon.com/projects
-[44]: 
-[45]: http://wordpress.com/signup/?ref=lof
-[46]: http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g
-[47]: #cancel
-[48]: http://emergentbydesign.com/2011/10/06/10-projects-to-liberate-the-web/
-[49]: http://i.creativecommons.org/l/by/3.0/88x31.png
-[50]: http://creativecommons.org/licenses/by/3.0/
+[44]: http://s2.wp.com/wp-content/mu-plugins/post-flair/sharing/images/loading.gif?m=1315610318g
+[45]: #cancel
+[46]: http://emergentbydesign.com/2011/10/06/10-projects-to-liberate-the-web/
+[47]: http://i.creativecommons.org/l/by/3.0/88x31.png
+[48]: http://creativecommons.org/licenses/by/3.0/
